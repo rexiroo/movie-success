@@ -1,6 +1,6 @@
 # What makes as successful movie?
 
-This project analyzes historical movie data to theorize a formula for a movies success.
+This project analyzes historical movie data to theorize a formula for a movie's success.
 
 Files in this repository were used to generate this visual on Tableau Public:
 https://public.tableau.com/app/profile/stacey.harper/viz/MovieProfitAnalysis/Dashboard1
